@@ -1,0 +1,35 @@
+[
+  {
+    "dynamic_id": 1,
+    "publisher_id": 1,
+    "title": "鸿蒙应用开发新趋势",
+    "content": "在鸿蒙应用开发进程中，界面设计正朝着极简且富有交互性方向演进。借助ArkTS，开发者能高效构建自适应多设备的界面，像智能手表上简洁易用、平板端丰富多样的布局，可快速实现。功能实现上，对系统能力调用更深度，比如利用鸿蒙分布式特性，让应用跨手机、智慧屏等设备协同，消息实时同步，还能结合AI能力实现智能推荐交互，为用户打造沉浸式体验，推动应用开发不断创新升级 。",
+    "summary": "剖析鸿蒙应用开发潮流，助力开发者紧跟技术步伐",
+    "author": "鸿蒙开发者小明",
+    "image_url": "https://ts1.tc.mm.bing.net/th/id/R-C.0e5505337d35606366640f716be08734?rik=vV6SahWN8VtTpA&riu=http%3a%2f%2fn.sinaimg.cn%2fsinakd20240118s%2f278%2fw1267h611%2f20240118%2fd400-da3d531be2bb7d50f8e61a0e1405f6c5.png&ehk=grnz34q1TBu%2bs1Ze92M0FDRJObpZpGcW%2faJKFOhKfw0%3d&risl=&pid=ImgRaw&r=0",
+    "create_time": "2025-06-30 10:00:00",
+    "audit_status": 1
+  },
+  {
+    "dynamic_id":2,
+    "publisher_id":2,
+    "title": "鸿蒙系统性能优化实践",
+    "content": "在鸿蒙系统上优化应用性能，需多维度发力。内存管理方面，要精准识别内存泄漏点，通过合理的对象生命周期管理，释放闲置资源，避免因内存占用过高导致应用卡顿。渲染效率提升上，优化UI绘制流程，减少不必要的重绘，利用鸿蒙的硬件加速能力，让复杂界面也能流畅展示。同时，借助系统的性能分析工具，实时监测CPU、GPU负载，针对高耗时操作如大数据量运算、复杂动画渲染，采用异步处理、分帧渲染等策略，让应用在鸿蒙生态各类设备上都能稳定高效运行 。",
+    "summary": "汇聚鸿蒙性能优化经验，让应用更流畅",
+    "author": "技术专家小张",
+    "image_url": "https://ts2.tc.mm.bing.net/th/id/OIP-C.BZ9e587SKRREHU0ucznedQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "create_time": "2025-06-29 14:30:00",
+    "audit_status": 1
+  },
+  {
+    "dynamic_id": 3,
+    "publisher_id": 3,
+    "title": "鸿蒙生态应用创意分享",
+    "content": "基于鸿蒙生态，创新应用创意不断涌现。在智能家居领域，可开发能联动全屋设备的控制应用，通过鸿蒙分布式软总线，手机作为中控，精准调控智能灯的色温、亮度，远程启动智能扫地机器人，还能根据环境传感器数据，自动切换家居场景模式。教育领域，打造跨终端的互动学习应用，学生用平板做题，老师在智慧屏实时批改、投屏讲解，利用鸿蒙的原子化服务，学习资料能便捷地在手机、手表等设备间流转，打破设备界限，为学习带来全新体验，拓展鸿蒙生态应用的更多可能 。",
+    "summary": "激发鸿蒙应用创意灵感，拓展生态可能性",
+    "author": "创意达人小李",
+    "image_url": "https://ts1.tc.mm.bing.net/th/id/R-C.9259f3f51e2a344b77a15fd8bb48a43c?rik=qTQP%2fW5yb%2bYcbg&riu=http%3a%2f%2fk.sinaimg.cn%2fn%2fsinakd20240115ac%2f364%2fw1268h696%2f20240115%2f7eb2-b008bb267a760e73731427f53fb1e2e6.jpg%2fw700d1q75cms.jpg%3fby%3dcms_fixed_width&ehk=49FdfWXTnpLHxARPh0kyaqZ3%2bCsV97Kadvb1wjM0Ww0%3d&risl=&pid=ImgRaw&r=0",
+    "create_time": "2025-06-28 09:15:00",
+    "audit_status": 1
+  }
+]

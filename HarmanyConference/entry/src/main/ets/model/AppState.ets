@@ -8,7 +8,6 @@ export class AppState {
   get selectedCourse(): Course | null {
     return this._selectedCourse;
   }
-
   set selectedCourse(course: Course | null) {
     this._selectedCourse = course;
   }

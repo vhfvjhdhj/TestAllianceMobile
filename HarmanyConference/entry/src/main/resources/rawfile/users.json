@@ -1,0 +1,29 @@
+[
+  {
+    "user_id": "1",
+    "compony": "1",
+    "username": "1",
+    "nickname": "张伟",
+    "phone": "13812345678",
+    "email": "zhangwei@example.com",
+    "password": "123456"
+  },
+  {
+    "user_id": "2",
+    "compony": "腾讯",
+    "username": "coder_lisa",
+    "nickname": "李莎",
+    "phone": "13987654321",
+    "email": "lisa@example.com",
+    "password": "abcdef"
+  },
+  {
+    "user_id": "3",
+    "compony": "阿里巴巴",
+    "username": "sunny_dev",
+    "nickname": "王强",
+    "phone": "13799998888",
+    "email": "wangqiang@example.com",
+    "password": "654321"
+  }
+]
